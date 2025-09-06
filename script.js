@@ -5,7 +5,7 @@ const translations = {
         introductionDetails: `I am passionate about becoming a software engineer. I currently attend the BVJ Technik und Informatik at Viventa in Zürich, where I take four weekly programming courses. <br>
 For several years, I have been certain that I want to build my career in technology, not only because of my interest in programming, but also because of my deep enthusiasm for computers. <br>
 I enjoy problem-solving, debugging, and bringing ideas to life through code, and I look forward to developing my skills further in the field of software engineering.`,
-        mainTitle2: "My services",
+        mainTitle2: "My experiences",
         serviceButtons: ["Programming", "Learning", "Skills"],
         services: [
 
@@ -31,16 +31,16 @@ I enjoy problem-solving, debugging, and bringing ideas to life through code, and
     },
     de: {
         mainTitle1: "Portfolio",
-        introduction: "Mein Name ist Emma Bacciarini,",
-        introductionDetails: `Mein Name ist Emma Bacciarini und ich habe eine grosse Leidenschaft dafür, Applikationsentwicklerin zu werden. Zurzeit besuche ich ich das BVJ Technik und Informatik an der Viventa in Zürich, wo ich vier Lektionen Programmieren pro Woche habe. Schon seit mehreren Jahren weiss ich, dass ich meine Karriere im Bereich Informatik aufbauen möchte, nicht nur wegen meiner Begeisterung für das Programmieren, sondern auch, weil ich Computer im Allgemeinen sehr spannend finde. Ich habe Freude am Problemlösen, am Debuggen und daran, Ideen durch Code zum Leben zu erwecken, und ich freue mich darauf, meine Fähigkeiten im Bereich Informatik weiterzuentwickeln.`,
-        mainTitle2: "Meine Dienstleistungen",
+        introduction: "Mein Name ist Emma Bacciarini",
+        introductionDetails: `Mein Name ist Emma Bacciarini und ich habe eine grosse Leidenschaft dafür, Applikationsentwicklerin zu werden. Zurzeit besuche ich das BVJ Technik und Informatik an der Viventa Schule in Zürich, wo ich vier Lektionen Programmieren pro Woche besuche. Schon seit mehreren Jahren weiss ich, dass ich meine Karriere im Bereich Informatik aufbauen möchte, nicht nur wegen meiner Begeisterung für das Programmieren, sondern auch, weil ich Computer im Allgemeinen sehr spannend finde. Ich habe Freude am Problemlösen, am Debuggen und daran, Ideen durch Code zum Leben zu erwecken, und ich freue mich darauf, meine Fähigkeiten im Bereich Informatik weiterzuentwickeln.`,
+        mainTitle2: "Meine Erfahrungen",
         serviceButtons: ["Programmieren", "Lernen", "Fähigkeiten"],
         services: [
             { 
                 title: "Programmieren:", 
-                text: "In meiner Freizeit habe ich mir selbstständig die Grundlagen von HTML, Java und Python angeeignet und erweitere nun meine Kenntnisse durch das Studieren von PowerShell in der Schule. Anfangs begann ich mit dem Programmieren als persönliches Hobby, ohne ein klares Ziel vor Augen zu haben. Mit der Zeit entdeckte ich jedoch eine grosse Leidenschaft für die Softwareentwicklung und sehe nun, wie diese selbst erlernten Fähigkeiten eine solide Grundlage für eine Karriere im Bereich Software-Engineering geschaffen haben.", 
+                text: "In meiner Freizeit habe ich mir selbstständig die Grundlagen von HTML, Java und Python angeeignet und erweitere nun meine Kenntnisse durch das Studieren von PowerShell in der Schule. Anfangs begann ich mit dem Programmieren als persönliches Hobby, ohne ein klares Ziel vor Augen zu haben. Mit der Zeit entdeckte ich jedoch eine grosse Leidenschaft für die Softwareentwicklung und sehe nun, wie diese selbst erlernten Fähigkeiten eine gute Grundlage für eine Karriere im Bereich Software-Engineering geschaffen haben.", 
                 img: "programmingexamle.png", 
-                details: "Ich beschäftige mich weiterhin mit Java und Python, zwei der am häufigsten verwendeten Programmiersprachen. Ich schaue mir regelmässig ausführliche Tutorials von erfahrenen Entwicklern an und programmiere parallel dazu, um wichtige Programmierkonzepte und die Logik hinter jeder Funktion besser zu verstehen. Ich nehme mir jeden Tag mindestens 15 Minuten Zeit zum Programmieren, um kontinuierliche Fortschritte zu erzielen, ohne mich zu überfordern. Mein Programmierhobby begann mit der Erstellung einfacher Spiele in Scratch und hat sich seitdem zu komplexeren Projekten entwickelt, wie beispielsweise einem Spiel im Metroidvania-Stil in Unity unter Verwendung von Visual Studio Code. Diese Projekte waren selbstgesteuert und wurden oft für Schulprojekte durchgeführt, für die ich beste Noten erhielt und die mir grossen Spass machten." 
+                details: "Ich beschäftige mich weiterhin mit Java und Python, zwei der am häufigsten verwendeten Programmiersprachen. Ich schaue mir regelmässig ausführliche Tutorials von erfahrenen Entwicklern an und programmiere parallel dazu, um wichtige Programmierkonzepte und die Logik hinter jeder Funktion besser zu verstehen. Ich nehme mir jeden Tag mindestens 30 Minuten Zeit zum Programmieren, um kontinuierliche Fortschritte zu erzielen, ohne mich zu überfordern. Mein Programmierhobby begann mit der Erstellung einfacher Spiele in Scratch und hat sich seitdem zu komplexeren Projekten entwickelt, wie beispielsweise einem Spiel im Metroidvania-Stil in Unity unter Verwendung von Visual Studio Code. Diese Projekte waren selbstgesteuert und wurden oft für Schulprojekte durchgeführt, für die ich beste Noten erhielt und die mir grossen Spass machten." 
             },
             { 
                 title: "Lernen:", 
@@ -147,3 +147,4 @@ langButtons.forEach(btn => {
 });
 
 updateTexts();
+
